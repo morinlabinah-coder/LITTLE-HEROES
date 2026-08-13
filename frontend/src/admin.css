@@ -1,0 +1,1 @@
+.admin-tabs{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0}.admin-tabs button{border:1px solid #b9cbd5;background:#fff;padding:9px 12px;border-radius:6px;cursor:pointer}.admin-tabs button.active{background:#123c6a;color:#fff}.admin-grid{display:grid;grid-template-columns:1.4fr 1fr;gap:35px}@media(max-width:720px){.admin-grid{grid-template-columns:1fr}}
